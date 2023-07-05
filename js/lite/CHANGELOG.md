@@ -1,5 +1,13 @@
 # @gradio/lite
 
+## 0.2.1
+
+### Patch Changes
+
+- [#4779](https://github.com/gradio-app/gradio/pull/4779) [`80b49965`](https://github.com/gradio-app/gradio/commit/80b4996595d70167313d9abf29fb4f35abe66a0f) Thanks [@whitphx](https://github.com/whitphx)! - Add file system APIs and an imperative package install method
+
+- [#4784](https://github.com/gradio-app/gradio/pull/4784) [`f757febe`](https://github.com/gradio-app/gradio/commit/f757febe181f0555aa01d4d349f92081819e2691) Thanks [@whitphx](https://github.com/whitphx)! - Remove the development code embedded in a dev HTML file so it will not be in a final bundle
+
 ## 0.2.0
 
 ### Minor Changes
